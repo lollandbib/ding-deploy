@@ -207,6 +207,12 @@ projects[dynamo][download][type] = "git"
 projects[dynamo][download][url] = "https://github.com/dingproject/dynamo.git"
 projects[dynamo][download][revision] = "v2.1.5"
 
+; Lolland theme
+
+projects[lolland][type] = "theme"
+projects[lolland][download][type] = "git"
+projects[lolland][download][url] = "https://github.com/lollandbib/lolland.git"
+
 ; Ding modules
 
 projects[alma][type] = "module"
@@ -217,7 +223,7 @@ projects[alma][download][revision] = "v1.5.3"
 projects[openruth][type] = "module"
 projects[openruth][download][type] = "git"
 projects[openruth][download][url] = "https://github.com/dingproject/openruth.git"
-projects[openruth][download][revision] = "v1.0.4"
+projects[openruth][download][revision] = "v1.0.7"
 
 projects[ding][type] = "module"
 projects[ding][download][type] = "git"
